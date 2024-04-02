@@ -1,6 +1,6 @@
 package com.wellsfargo.counselor.entity;
 
-
+import java.util.scanner;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
